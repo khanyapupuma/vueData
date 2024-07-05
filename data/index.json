@@ -19,6 +19,15 @@
         "graduation_year": 2023,
         "location": "Butterworth,Eastern Cape"
 
+      },
+      {
+        "id": 2,
+        "imageURL": "https://khanyapupuma.github.io/all-images/all-images/Images/",
+        "degree": "None ",
+        "school": "Life Choices Academy",
+        "graduation_year": "April 2024-present",
+        "location": "Lansdowne, Cape Town"
+
       }
 
     ],
