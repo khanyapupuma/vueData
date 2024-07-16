@@ -96,7 +96,7 @@
         "image": "https://khanyapupuma.github.io/all-images/all-images/Images/calculator.png",
         "projectName": "Calculator",
         "description": "A calculator designed to replicate a cell phone calculator, it easily allows for small and handful calculations.",
-        "github": "ttps://github.com/khanyapupuma/",
+        "github": "https://github.com/khanyapupuma/",
         "vercel": "https://calculator-six-ruddy.vercel.app/"
       },
       {
@@ -111,8 +111,8 @@
         "id": 13,
         "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Ee-commerce.png",
         "projectName": "E-Commerce",
-        "description": "A multi-paged Anime based e-commerce website that allows for the purchasing of mangas.Although basic further developments are pending.",
-        "github": "ttps://github.com/khanyapupuma/E-commerce.git",
+        "description": "A multi-paged Anime based e-commerce website that allows for the purchasing of manga.Although basic further developments are pending.",
+        "github": "https://github.com/khanyapupuma/E-commerce.git",
         "vercel": "https://e-commerce-red-xi-76.vercel.app/index.html"
       },
       {
@@ -130,6 +130,14 @@
         "description": "A javascript based web app that converts minutes to seconds",
         "github": "https://github.com/khanyapupuma/Min_to_Sec.git",
         "vercel": "https://min-to-sec-orcin.vercel.app/"
+      },
+      {
+        "id": 16,
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/bmi image.png",
+        "projectName": "Body Mass Index Calculator",
+        "description": "A javascript based web app that helps people to easily calculate their bmi to know if they're healthy",
+        "github": "https://github.com/khanyapupuma/bmi_calculator",
+        "vercel": "https://bmi-calculator-one-xi.vercel.app"
       }
     ]
   }
