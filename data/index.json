@@ -35,22 +35,32 @@
       {
         "id": 2,
         "title": "Javascript",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/JS.jpg"
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/JS.jpg",
+        "Proficiency": "Advanced Beginner"
       },
       {
         "id": 3,
         "title": "HTML",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/HTML logo.png"
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/HTML logo.png",
+         "Proficiency": "Advanced Beginner"
       },
       {
         "id": 4,
         "title": "CSS",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/CSS.png"
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/CSS.png",
+         "Proficiency": "Advanced Beginner"
       },
       {
         "id": 5,
         "title": "Vue.JS",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Vue.png"
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Vue.png",
+         "Proficiency": "Novice"
+      },
+      {
+        "id": 17,
+        "title": "mySQL",
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Mysql_logo.png",
+        "Proficiency": "Novice"
       }
     ],
     "testimonials": [
@@ -88,6 +98,13 @@
         "jobtitle": "Web Developer",
         "review": "Khanya is very reliable and skilled developer who consistently makes results. His strong problem-solving skills and proactive approach make him a standout member on teams.   I highly recommend him for any development project.",
         "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092826.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Amy Johnson",
+        "jobtitle": "Web Developer",
+        "review": "Khanya is a hardworking, dedicated individual. He always tackles the the task at hand to the best of his ability and never backs down when he is presented with a challenge. He is soft spoken, creative and very intelligent. He has the ability to work individually and transitions exceptionally well when involved in group projects. I highly recommend him as he will be an incredible asset to your company.",
+        "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_091901.jpg"
       }
     ],
     "projects": [
