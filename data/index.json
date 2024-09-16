@@ -1,143 +1,140 @@
 {
-    "jobTitle": [
-        {
-            "title" :"Junior Fullstack Web Developer"
-             },
-             {
-                 "title": " Aspiring Software Developer"
-             }
-    ],
-    "about": [
-      "Hello my name is Khanya Pupuma I'm an aspiring Web Developer and I'm on my journey to become a full fledged Web Dev that's a Fullstack developer that excels in both Back-end and Front-end development.I've been greatly interested in Science and Tech for as long as I can remember. I am very passionate in learning new things and debating in topics that I consider to be interesting. I always try my best to always deliver what is expected of me. My wish is to be part of a company that will allow me grow further as a Dev"
-    ],
-    "education": [
-      {
-        "id": 1,
-        "imageURL": "https://khanyapupuma.github.io/all-images/all-images/Images/myIm1.jpg",
-        "degree": "NSC Bachelor ",
-        "school": "Ndabankulu Senior Secondary School",
-        "graduation_year": 2023,
-        "location": "Butterworth,Eastern Cape"
-
-      },
-      {
-        "id": 2,
-        "imageURL": "https://khanyapupuma.github.io/all-images/all-images/Images/LC.png",
-        "degree": "None ",
-        "school": "Life Choices Academy",
-        "graduation_year": "April 2024-present",
-        "location": "Lansdowne, Cape Town"
-
-      }
-
-    ],
-    "skills": [
-      {
-        "id": 2,
-        "title": "Javascript",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/JS.jpg"
-      },
-      {
-        "id": 3,
-        "title": "HTML",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/HTML logo.png"
-      },
-      {
-        "id": 4,
-        "title": "CSS",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/CSS.png"
-      },
-      {
-        "id": 5,
-        "title": "Vue.JS",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Vue.png"
-      }
-    ],
-    "testimonials": [
-      {
-        "id": 6,
-        "name": "Yakupha Ntonintshi",
-        "jobtitle": "Web Developer",
-        "review": "Khanya Pupuma is an exceptional developerwith a keen eye for detail. His ability to tackle complex problems and deliver high-quality solutions is truly impressive.It's always a pleasure to work alongside him.",
-        "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/Yakupha.jpg"
-      },
-      {
-        "id": 7,
-        "name": "Simanye Somdaka",
-        "jobtitle": "Web Developer",
-        "review": "Working with Khanya has been a game-changer for me. His dedication to clean, efficient code has significantly improved our project performance and scalability. He's a valuable asset to any development team.",
-        "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/1000089548.jpg"
-      },
-      {
-        "id": 8,
-        "name": "Daniel Umetor",
-        "jobtitle": "Web Developer",
-        "review": "Khanya's contributions in our temporary teams have been invaluable.His depth in knowlegde in software development coupled with his collaborative spirit has greatly contributed to his projects. I would highly recommend him to anyone seeking a talented and reliable developer.",
-        "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092724.jpg"
-      },
-      {
-        "id": 9,
-        "name": "Keira Kistensamy",
-        "jobtitle": "Web Developer",
-        "review": "I've had the pleasure of working with Pupuma on several projects, and each timehe has exceeded expectations. His professionalism, technical expertise, and ability t communicate effectively make him an invaluable teammate. I look forward to working with him again in the future.",
-        "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/keira.jpg"
-      },
-      {
-        "id": 10,
-        "name": "Erin William",
-        "jobtitle": "Web Developer",
-        "review": "Khanya is very reliable and skilled developer who consistently makes results. His strong problem-solving skills and proactive approach make him a standout member on teams.   I highly recommend him for any development project.",
-        "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092826.jpg"
-      }
-    ],
-    "projects": [
-      {
-        "id": 11,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/calculator.png",
-        "projectName": "Calculator",
-        "description": "A calculator designed to replicate a cell phone calculator, it easily allows for small and handful calculations.",
-        "github": "https://github.com/khanyapupuma/",
-        "vercel": "https://calculator-six-ruddy.vercel.app/"
-      },
-      {
-        "id": 12,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/To-do_list.png",
-        "projectName": "To-Do List",
-        "description": "A web application that allows users to write and create a short list of things too do for the sake of memory assistance.",
-        "github": "https://github.com/khanyapupuma/To-do-list",
-        "vercel": "https://to-do-list-flax-chi.vercel.app/"
-      },
-      {
-        "id": 13,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Ee-commerce.png",
-        "projectName": "E-Commerce",
-        "description": "A multi-paged Anime based e-commerce website that allows for the purchasing of manga.Although basic further developments are pending.",
-        "github": "https://github.com/khanyapupuma/E-commerce.git",
-        "vercel": "https://e-commerce-red-xi-76.vercel.app/index.html"
-      },
-      {
-        "id": 14,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/temp-conv.png",
-        "projectName": "Temperature Converter",
-        "description": "A webpage containing a calculator that assists for the user to convert Celsius-to-Fahrenheit and also Fahrenheit-to-Celsius ",
-        "github": "https://github.com/khanyapupuma/temp_converter-calc.git",
-        "vercel": "https://temp-converter-calc.vercel.app/"
-      },
-      {
-        "id": 15,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/min-conv.png",
-        "projectName": "Minutes to Seconds converter",
-        "description": "A javascript based web app that converts minutes to seconds",
-        "github": "https://github.com/khanyapupuma/Min_to_Sec.git",
-        "vercel": "https://min-to-sec-orcin.vercel.app/"
-      },
-      {
-        "id": 16,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/bmi image.png",
-        "projectName": "Body Mass Index Calculator",
-        "description": "A javascript based web app that helps people to easily calculate their bmi to know if they're healthy",
-        "github": "https://github.com/khanyapupuma/bmi_calculator",
-        "vercel": "https://bmi-calculator-one-xi.vercel.app"
-      }
-    ]
-  }
+  "jobTitle": [
+    {
+      "title": "Fullstack Web Developer"
+    },
+    {
+      "title": " Aspiring Software Developer"
+    }
+  ],
+  "about": [
+    "Hello my name is Khanya Pupuma I'm an aspiring Web Developer and I'm on my journey to become a full fledged Web Dev that's a Fullstack developer that excels in both Back-end and Front-end development.I've been greatly interested in Science and Tech for as long as I can remember. I am very passionate in learning new things and debating in topics that I consider to be interesting. I always try my best to always deliver what is expected of me. My wish is to be part of a company that will allow me grow further as a Dev"
+  ],
+  "education": [
+    {
+      "id": 1,
+      "imageURL": "https://khanyapupuma.github.io/all-images/all-images/Images/myIm1.jpg",
+      "degree": "NSC Bachelor ",
+      "school": "Ndabankulu Senior Secondary School",
+      "graduation_year": 2023,
+      "location": "Butterworth,Eastern Cape"
+    },
+    {
+      "id": 2,
+      "imageURL": "https://khanyapupuma.github.io/all-images/all-images/Images/LC.png",
+      "degree": "None ",
+      "school": "Life Choices Academy",
+      "graduation_year": "April 2024-present",
+      "location": "Lansdowne, Cape Town"
+    }
+  ],
+  "skills": [
+    {
+      "id": 2,
+      "title": "Javascript",
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/JS.jpg"
+    },
+    {
+      "id": 3,
+      "title": "HTML",
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/HTML logo.png"
+    },
+    {
+      "id": 4,
+      "title": "CSS",
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/CSS.png"
+    },
+    {
+      "id": 5,
+      "title": "Vue.JS",
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Vue.png"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 6,
+      "name": "Yakupha Ntonintshi",
+      "jobtitle": "Web Developer",
+      "review": "Khanya Pupuma is an exceptional developer with a keen eye for detail. His ability to tackle complex problems and deliver high-quality solutions is truly impressive.It's always a pleasure to work alongside him.",
+      "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/Yakupha.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Simanye Somdaka",
+      "jobtitle": "Web Developer",
+      "review": "Working with Khanya has been a game-changer for me. His dedication to clean, efficient code has significantly improved our project performance and scalability. He's a valuable asset to any development team.",
+      "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/1000089548.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Daniel Umetor",
+      "jobtitle": "Web Developer",
+      "review": "Khanya's contributions in our temporary teams have been invaluable.His depth in knowledge in software development coupled with his collaborative spirit has greatly contributed to his projects. I would highly recommend him to anyone seeking a talented and reliable developer.",
+      "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092724.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Keira Kistensamy",
+      "jobtitle": "Web Developer",
+      "review": "I've had the pleasure of working with Pupuma on several projects, and each time he has exceeded expectations. His professionalism, technical expertise, and ability t communicate effectively make him an invaluable teammate. I look forward to working with him again in the future.",
+      "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/keira.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Erin William",
+      "jobtitle": "Web Developer",
+      "review": "Khanya is very reliable and skilled developer who consistently makes results. His strong problem-solving skills and proactive approach make him a standout member on teams.   I highly recommend him for any development project.",
+      "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/20240422_092826.jpg"
+    }
+  ],
+  "projects": [
+    {
+      "id": 11,
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/calculator.png",
+      "projectName": "Calculator",
+      "description": "A calculator designed to replicate a cell phone calculator, it easily allows for small and handful calculations.",
+      "github": "https://github.com/khanyapupuma/",
+      "vercel": "https://calculator-six-ruddy.vercel.app/"
+    },
+    {
+      "id": 12,
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/To-do_list.png",
+      "projectName": "To-Do List",
+      "description": "A web application that allows users to write and create a short list of things too do for the sake of memory assistance.",
+      "github": "https://github.com/khanyapupuma/To-do-list",
+      "vercel": "https://to-do-list-flax-chi.vercel.app/"
+    },
+    {
+      "id": 13,
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Ee-commerce.png",
+      "projectName": "E-Commerce",
+      "description": "A multi-paged Anime based e-commerce website that allows for the purchasing of manga.Although basic further developments are pending.",
+      "github": "https://github.com/khanyapupuma/E-commerce.git",
+      "vercel": "https://e-commerce-red-xi-76.vercel.app/index.html"
+    },
+    {
+      "id": 14,
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/temp-conv.png",
+      "projectName": "Temperature Converter",
+      "description": "A webpage containing a calculator that assists for the user to convert Celsius-to-Fahrenheit and also Fahrenheit-to-Celsius ",
+      "github": "https://github.com/khanyapupuma/temp_converter-calc.git",
+      "vercel": "https://temp-converter-calc.vercel.app/"
+    },
+    {
+      "id": 15,
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/min-conv.png",
+      "projectName": "Minutes to Seconds converter",
+      "description": "A javascript based web app that converts minutes to seconds",
+      "github": "https://github.com/khanyapupuma/Min_to_Sec.git",
+      "vercel": "https://min-to-sec-orcin.vercel.app/"
+    },
+    {
+      "id": 16,
+      "image": "https://khanyapupuma.github.io/all-images/all-images/Images/bmi image.png",
+      "projectName": "Body Mass Index Calculator",
+      "description": "A javascript based web app that helps people to easily calculate their bmi to know if they're healthy",
+      "github": "https://github.com/khanyapupuma/bmi_calculator",
+      "vercel": "https://bmi-calculator-one-xi.vercel.app"
+    }
+  ]
+}
