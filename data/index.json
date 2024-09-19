@@ -92,7 +92,7 @@
     ],
     "projects": [
       {
-        "id": 11,
+        "id": 14,
         "image": "https://khanyapupuma.github.io/all-images/all-images/Images/calculator.png",
         "projectName": "Calculator",
         "description": "A calculator designed to replicate a cell phone calculator, it easily allows for small and handful calculations.",
@@ -116,7 +116,7 @@
         "vercel": "https://e-commerce-red-xi-76.vercel.app/index.html"
       },
       {
-        "id": 14,
+        "id": 11,
         "image": "https://khanyapupuma.github.io/all-images/all-images/Images/temp-conv.png",
         "projectName": "Temperature Converter",
         "description": "A webpage containing a calculator that assists for the user to convert Celsius-to-Fahrenheit and also Fahrenheit-to-Celsius ",
