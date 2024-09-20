@@ -35,22 +35,22 @@
       {
         "id": 2,
         "title": "Javascript",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/JS.jpg"
+        "image": "https://img.icons8.com/fluency/96/javascript.png"
       },
       {
         "id": 3,
         "title": "HTML",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/HTML logo.png"
+        "image": "https://img.icons8.com/fluency/96/html-5.png"
       },
       {
         "id": 4,
         "title": "CSS",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/CSS.png"
+        "image": "https://img.icons8.com/color/96/css3.png"
       },
       {
         "id": 5,
         "title": "Vue.JS",
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/Vue.png"
+        "image": "https://img.icons8.com/color/96/vue-js.png"
       }
     ],
     "testimonials": [
