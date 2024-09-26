@@ -51,6 +51,16 @@
         "id": 5,
         "title": "Vue.JS",
         "image": "https://img.icons8.com/color/96/vue-js.png"
+      },
+      {
+        "id": 6,
+        "title": "Node",
+        "image": "https://img.icons8.com/color/96/nodejs.png"
+      },
+      {
+        "id": 7,
+        "title": "mySQL",
+        "image": "https://img.icons8.com/color/96/mysql.png"
       }
     ],
     "testimonials": [
@@ -58,7 +68,7 @@
         "id": 6,
         "name": "Yakupha Ntonintshi",
         "jobtitle": "Web Developer",
-        "review": "Khanya Pupuma is an exceptional developerwith a keen eye for detail. His ability to tackle complex problems and deliver high-quality solutions is truly impressive.It's always a pleasure to work alongside him.",
+        "review": "Khanya Pupuma is an exceptional developer with a keen eye for detail. His ability to tackle complex problems and deliver high-quality solutions is truly impressive.It's always a pleasure to work alongside him.",
         "profile": "https://khanyapupuma.github.io/all-images/all-images/Images/Yakupha.jpg"
       },
       {
