@@ -17,15 +17,15 @@
         "degree": "NSC Bachelor ",
         "school": "Ndabankulu Senior Secondary School",
         "graduation_year": 2023,
-        "location": "Butterworth,Eastern Cape"
+        "location": "Butterworth, Eastern Cape"
 
       },
       {
         "id": 2,
         "imageURL": "https://khanyapupuma.github.io/all-images/all-images/Images/LC.png",
-        "degree": "None ",
-        "school": "Life Choices Academy",
-        "graduation_year": "April 2024-present",
+        "degree": "Fullstack Web Dev",
+        "school": "Life Choices: Coding Academy",
+        "graduation_year": 2024,
         "location": "Lansdowne, Cape Town"
 
       }
@@ -35,32 +35,40 @@
       {
         "id": 2,
         "title": "Javascript",
-        "image": "https://img.icons8.com/fluency/96/javascript.png"
+        "image": "https://img.icons8.com/fluency/96/javascript.png",
+        "Info": "Moderate knowledge  of JavaScript, including DOM manipulation, event handling, and asynchronous programming."
+
       },
       {
         "id": 3,
         "title": "HTML",
-        "image": "https://img.icons8.com/fluency/96/html-5.png"
+        "image": "https://img.icons8.com/fluency/96/html-5.png",
+        "Info": "Advanced understanding of HTML, including semantic elements, forms, and multimedia."
       },
       {
         "id": 4,
         "title": "CSS",
-        "image": "https://img.icons8.com/color/96/css3.png"
+        "image": "https://img.icons8.com/color/96/css3.png",
+        "Info": "Advanced knowledge of CSS, including layout, styling, and animations."
       },
       {
         "id": 5,
         "title": "Vue.JS",
-        "image": "https://img.icons8.com/color/96/vue-js.png"
+        "image": "https://img.icons8.com/color/96/vue-js.png",
+        "Info": "Moderate knowledge of Vue.js, including components, state management, and routing. With  a focus on building reusable and maintainable UI components."
+
       },
       {
         "id": 6,
         "title": "Node",
-        "image": "https://img.icons8.com/color/96/nodejs.png"
+        "image": "https://img.icons8.com/color/96/nodejs.png",
+        "Info": "Moderate knowledge of Node.js, including server-side development and API design"
       },
       {
         "id": 7,
         "title": "mySQL",
-        "image": "https://img.icons8.com/color/96/mysql.png"
+        "image": "https://img.icons8.com/color/96/mysql.png",
+        "Info": "Moderate knowledge of mySQL, including database design, querying, and data"
       }
     ],
     "testimonials": [
