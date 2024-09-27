@@ -152,7 +152,7 @@
       {
         "id": 16,
         "image": "https://khanyapupuma.github.io/all-images/all-images/Images/bmi image.png",
-        "projectName": "Body Mass Index Calculator",
+        "projectName": "Body Mass Index Calculator App",
         "description": "A javascript based web app that helps people to easily calculate their bmi to know if they're healthy",
         "github": "https://github.com/khanyapupuma/bmi_calculator",
         "vercel": "https://bmi-calculator-one-xi.vercel.app"
