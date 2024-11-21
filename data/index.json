@@ -143,11 +143,11 @@
       },
       {
         "id": 15,
-        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/min-conv.png",
-        "projectName": "Minutes to Seconds converter",
-        "description": "A javascript based web app that converts minutes to seconds",
-        "github": "https://github.com/khanyapupuma/Min_to_Sec.git",
-        "vercel": "https://min-to-sec-orcin.vercel.app/"
+        "image": "https://khanyapupuma.github.io/all-images/all-images/Images/snake.png",
+        "projectName": "Snake Game",
+        "description": "A javascript based snake game",
+        "github": "https://github.com/khanyapupuma/Snake",
+        "vercel": "https://snakev1.vercel.app/"
       },
       {
         "id": 16,
